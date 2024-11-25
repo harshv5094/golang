@@ -1,2 +1,3 @@
-# golang
-Golang Practice Repository
+# Golang Practice Repository
+
+Practice Problems for Golang
